@@ -1,120 +1,107 @@
-<!-- Hero -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/.github/header-wave.svg" alt="wave" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I’m Shaheer Mirza 👋</h1>
-<p align="center">Software developer • Security enthusiast • Open-source contributor</p>
+# Hi, I’m Shaheer Mirza 👋
 
-<p align="center">
-  <a href="https://github.com/Shaheer-Mirza"><img src="https://img.shields.io/github/followers/Shaheer-Mirza?label=Follow&style=social" alt="Follow on GitHub"></a>
-  <a href="https://github.com/Shaheer-Mirza?tab=repositories"><img src="https://img.shields.io/github/repo-size/Shaheer-Mirza/Shaheer-Mirza?color=blue" alt="Repo size"></a>
-  <a href="https://www.linkedin.com/in/shaheer--mirza/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Shaheer-Mirza"><img src="https://img.shields.io/badge/Top%20Langs-JS%2FPython-blue?logo=github" alt="Top langs"></a>
-</p>
+### Developer • Security enthusiast • Linux & DevOps learner
 
----
+<a href="https://github.com/Shaheer-Mirza"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"></a>
+<a href="https://www.linkedin.com/in/shaheer--mirza/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"></a>
+<a href="https://github.com/Shaheer-Mirza?tab=following"><img src="https://img.shields.io/badge/Discover-My%20Network-7C3AED?style=for-the-badge&logo=github" alt="View who I follow"></a>
 
-## 🚀 Overview
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+useful+things+with+curiosity;Exploring+Linux%2C+security%2C+and+DevOps;Learning+in+public+%E2%80%94+one+project+at+a+time" alt="Animated introduction" />
 
-I build reliable, scalable systems and enjoy exploring security, automation, and developer tooling. This profile page is interactive — click into sections to reveal demos, achievements, and artifacts.
-
-- 🔭 Current focus: Cloud-native apps, observability, and hardening web apps
-- 🌱 Learning: Advanced system design and secure coding practices
-- 👯 Open to: Collaborations on security tooling, devtools, and web apps
+</div>
 
 ---
 
-## ✨ Interactive highlights
+## ⚡ About me
 
-- Click to expand project summaries, screenshots, and live demos.
-- Scroll to the Achievements section to view embedded certificates and badges.
+I’m Shaheer Mirza — I enjoy turning curiosity into practical projects across web development, Linux, DevOps, security, automation, and space-focused experimentation. I like learning in public, documenting what I discover, and making technical resources easier to access.
+
+```text
+Focus       Linux · DevOps · Security · Web · Open source
+Build style Learn by doing · Document clearly · Improve continuously
+Currently   Exploring practical tools, automation, and ambitious experiments
+```
+
+## 🚀 Selected work
+
+<table>
+<tr>
+<td width="50%">
+<h3>🌌 Space Biology Knowledge Engine</h3>
+<p>A space-focused knowledge project built for exploration and discovery.</p>
+<a href="https://github.com/Shaheer-Mirza/Space-Biology-Knowledge-Engine">Explore project →</a>
+</td>
+<td width="50%">
+<h3>🐳 searxng-docker</h3>
+<p>Docker Compose files for setting up a private SearXNG instance.</p>
+<a href="https://github.com/Shaheer-Mirza/searxng-docker">Explore project →</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🐧 Setting Up Linux</h3>
+<p>Practical shell automation and notes for preparing a Linux environment.</p>
+<a href="https://github.com/Shaheer-Mirza/Setting-Up-Linux">Explore project →</a>
+</td>
+<td width="50%">
+<h3>📚 Free DevOps Books</h3>
+<p>A curated collection of free DevOps-related eBooks and learning resources.</p>
+<a href="https://github.com/Shaheer-Mirza/Free-DevOps-Books-1">Explore collection →</a>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/Shaheer-Mirza?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_repositories-06B6D4?style=for-the-badge&logo=github" alt="Explore all repositories"></a>
+</div>
+
+## 🏅 Achievements
+
+<div align="center">
+<a href="https://github.com/Shaheer-Mirza/Shaheer-Mirza/blob/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals.png"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals%20Badge.png" width="220" alt="Hack The Box Linux Fundamentals badge"></a>
+<a href="https://github.com/Shaheer-Mirza/Shaheer-Mirza/blob/main/Achievements/NASA/Space%20Apps%20Hackathon/NASA%20Space%20Apps%20Challenge%202025.pdf"><img src="https://img.shields.io/badge/NASA-Space%20Apps%20Challenge%202025-2563EB?style=for-the-badge&logo=nasa" alt="NASA Space Apps Challenge 2025"></a>
+</div>
 
 <details>
-<summary><strong>Selected Project — Real-time Task Manager (example)</strong></summary>
+<summary><strong>View certificates and achievement files</strong></summary>
 
-**What it does:** Collaborative, offline-first task manager for small teams.
-
-- Tech: React, TypeScript, Node.js, PostgreSQL, Redis
-- Role: Full-stack lead — built real-time sync and optimized performance
-- Demo: (replace with live demo link)
-- Repo: https://github.com/Shaheer-Mirza/ProjectName
+- [Hack The Box — Linux Fundamentals badge](Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals%20Badge.png)
+- [Hack The Box — Linux Fundamentals certificate](Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals.pdf)
+- [NASA — Space Apps Challenge 2025](Achievements/NASA/Space%20Apps%20Hackathon/NASA%20Space%20Apps%20Challenge%202025.pdf)
 
 </details>
 
-<details>
-<summary><strong>Selected Project — Analytics Ingest API (example)</strong></summary>
+## 🧰 Toolkit
 
-**What it does:** High-throughput event ingestion and near-real-time dashboards.
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,python,html,css,docker,git,github,aws&theme=dark" alt="Technology icons" />
+</div>
 
-- Tech: Python, Flask, Kafka, PostgreSQL
-- Role: Backend engineer — designed pipeline and improved throughput
-- Repo: https://github.com/Shaheer-Mirza/AnotherProject
+<br>
 
-</details>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer-Mirza&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Shaheer-Mirza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats">
+</div>
 
----
+## 📈 Activity
 
-## 🏅 Achievements (embedded)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaheer-Mirza&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph">
+</div>
 
-Below are artifacts from the Achievements folder in this repository. Click the images to open the full certificate or PDF.
+## 📫 Let’s connect
 
-<p align="center">
-  <a href="https://github.com/Shaheer-Mirza/Shaheer-Mirza/blob/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals.png">
-    <img alt="HTB Linux Badge" src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals%20Badge.png" width="260" style="margin: 10px; border-radius:12px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals.png">
-    <img alt="HTB Linux" src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals.png" width="340" style="margin: 10px; border-radius:12px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);"/>
-  </a>
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/shaheer--mirza/)
+- 🐙 [GitHub](https://github.com/Shaheer-Mirza)
+- 👀 [People and projects I follow](https://github.com/Shaheer-Mirza?tab=following)
 
-<p align="center">
-  <a href="https://github.com/Shaheer-Mirza/Shaheer-Mirza/blob/main/Achievements/NASA/Space%20Apps%20Hackathon/NASA%20Space%20Apps%20Challenge%202025.pdf">
-    <img alt="NASA Space Apps PDF" src="https://img.shields.io/badge/NASA-Space%20Apps%202025-blue?logo=nasa" style="margin: 10px;" />
-  </a>
-</p>
+<div align="center">
 
-<details>
-<summary><strong>View achievement artifacts (PDFs, full-size images)</strong></summary>
+### Thanks for visiting — keep exploring, building, and learning. ✦
 
-- Hack The Box — Linux Fundamentals (badge + certificate)
-  - Badge: ./Achievements/Hack The Box/Academy/Linux Fundamentals/Hack The Box Linux Fundamentals Badge.png
-  - Certificate (PNG): ./Achievements/Hack The Box/Academy/Linux Fundamentals/Hack The Box Linux Fundamentals.png
-  - Certificate (PDF): ./Achievements/Hack The Box/Academy/Linux Fundamentals/Hack The Box Linux Fundamentals.pdf
+<img src="https://komarev.com/ghpvc/?username=Shaheer-Mirza&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views">
 
-- NASA — Space Apps Hackathon
-  - Project write-up / certificate: ./Achievements/NASA/Space Apps Hackathon/NASA Space Apps Challenge 2025.pdf
-
-</details>
-
----
-
-## 🧰 Skills & tools
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer-Mirza&layout=compact&theme=radical" alt="Top languages"/>
-</p>
-
-- Languages: JavaScript, TypeScript, Python
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, Flask
-- DB: PostgreSQL, MongoDB, Redis
-- DevOps: Docker, GitHub Actions, AWS
-- Testing: Jest, Playwright
-
----
-
-## 📫 Connect
-
-- GitHub: https://github.com/Shaheer-Mirza
-- LinkedIn: https://www.linkedin.com/in/shaheer--mirza/
-- Email: your.email@example.com (replace)
-- Portfolio: https://your-portfolio.example.com (replace)
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shaheer-Mirza&theme=darkhub" alt="Trophies" />
-</p>
-
-<p align="center">Thanks for stopping by — explore the achievements above or open an issue if you'd like to collaborate.</p>
+</div>
