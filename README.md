@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://github.com/Shaheer-Mirza"><img src="https://img.shields.io/github/followers/Shaheer-Mirza?label=Follow&style=social" alt="Follow on GitHub"></a>
   <a href="https://github.com/Shaheer-Mirza?tab=repositories"><img src="https://img.shields.io/github/repo-size/Shaheer-Mirza/Shaheer-Mirza?color=blue" alt="Repo size"></a>
+  <a href="https://www.linkedin.com/in/shaheer--mirza/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Shaheer-Mirza"><img src="https://img.shields.io/badge/Top%20Langs-JS%2FPython-blue?logo=github" alt="Top langs"></a>
 </p>
 
@@ -106,7 +107,7 @@ Below are artifacts from the Achievements folder in this repository. Click the i
 ## 📫 Connect
 
 - GitHub: https://github.com/Shaheer-Mirza
-- LinkedIn: https://www.linkedin.com/in/your-linkedin/ (replace)
+- LinkedIn: https://www.linkedin.com/in/shaheer--mirza/
 - Email: your.email@example.com (replace)
 - Portfolio: https://your-portfolio.example.com (replace)
 
