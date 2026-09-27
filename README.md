@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/shaheer--mirza/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"></a>
 <a href="https://github.com/Shaheer-Mirza?tab=following"><img src="https://img.shields.io/badge/Discover-My%20Network-7C3AED?style=for-the-badge&logo=github" alt="View who I follow"></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+useful+things+with+curiosity;Exploring+Linux%2C+security%2C+and+DevOps;Learning+in+public+%E2%80%94+one+project+at+a+time" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+useful+things+with+curiosity;Learning+Linux%2C+DevOps%2C+and+security+daily;Exploring+automation%2C+space%2C+and+practical+projects" alt="Typing animation" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## ⚡ About me
 
-I’m Shaheer Mirza — I enjoy turning curiosity into practical projects across web development, Linux, DevOps, security, automation, and space-focused experimentation. I like learning in public, documenting what I discover, and making technical resources easier to access.
+I’m Shaheer Mirza — I enjoy turning curiosity into practical projects across web development, Linux, DevOps, security, automation, and space-focused experimentation. I like learning in public, documenting what I build, and improving my workflow along the way.
 
 ```text
 Focus       Linux · DevOps · Security · Web · Open source
@@ -60,8 +60,8 @@ Currently   Exploring practical tools, automation, and ambitious experiments
 ## 🏅 Achievements
 
 <div align="center">
-<a href="https://github.com/Shaheer-Mirza/Shaheer-Mirza/blob/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals.png"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals%20Badge.png" width="220" alt="Hack The Box Linux Fundamentals badge"></a>
-<a href="https://github.com/Shaheer-Mirza/Shaheer-Mirza/blob/main/Achievements/NASA/Space%20Apps%20Hackathon/NASA%20Space%20Apps%20Challenge%202025.pdf"><img src="https://img.shields.io/badge/NASA-Space%20Apps%20Challenge%202025-2563EB?style=for-the-badge&logo=nasa" alt="NASA Space Apps Challenge 2025"></a>
+<a href="https://github.com/Shaheer-Mirza/Shaheer-Mirza/blob/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals.png"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals.png" alt="Hack The Box Linux Fundamentals" width="280" /></a>
+<a href="https://github.com/Shaheer-Mirza/Shaheer-Mirza/blob/main/Achievements/NASA/Space%20Apps%20Hackathon/NASA%20Space%20Apps%20Challenge%202025.pdf"><img src="https://img.shields.io/badge/NASA-Space%20Apps%20Challenge%202025-7C3AED?style=for-the-badge&logo=github" alt="NASA Space Apps Challenge 2025" /></a>
 </div>
 
 <details>
