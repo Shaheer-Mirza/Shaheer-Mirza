@@ -46,9 +46,9 @@ Currently   Exploring practical tools, automation, and ambitious experiments
 <a href="https://github.com/Shaheer-Mirza/Setting-Up-Linux">Explore project →</a>
 </td>
 <td width="50%">
-<h3>📚 Free DevOps Books</h3>
-<p>A curated collection of free DevOps-related eBooks and learning resources.</p>
-<a href="https://github.com/Shaheer-Mirza/Free-DevOps-Books-1">Explore collection →</a>
+<h3>🐉 Getting Started with Kali Linux Server</h3>
+<p>Notes and setup guidance for getting started with a Kali Linux server.</p>
+<a href="https://github.com/Shaheer-Mirza/Getting-Started-with-Kali-Linux-Server">Explore project →</a>
 </td>
 </tr>
 </table>
