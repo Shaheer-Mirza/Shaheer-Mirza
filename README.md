@@ -59,17 +59,54 @@ Currently   Exploring practical tools, automation, and ambitious experiments
 
 ## 🏅 Achievements
 
-<div align="center">
-<a href="https://github.com/Shaheer-Mirza/Shaheer-Mirza/blob/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals.png"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals.png" alt="Hack The Box Linux Fundamentals" width="280" /></a>
-<a href="https://github.com/Shaheer-Mirza/Shaheer-Mirza/blob/main/Achievements/NASA/Space%20Apps%20Hackathon/NASA%20Space%20Apps%20Challenge%202025.pdf"><img src="https://img.shields.io/badge/NASA-Space%20Apps%20Challenge%202025-7C3AED?style=for-the-badge&logo=github" alt="NASA Space Apps Challenge 2025" /></a>
-</div>
+### 🎓 Certifications & learning
+
+<table>
+<tr>
+<td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Academy/Introduction%20to%20Networking/Hack%20The%20Box%20Introduction%20to%20Networking%20Badge%204%20to%203%20ratio.png" width="250" alt="Hack The Box Introduction to Networking badge, 4:3 ratio"></p><p align="center"><strong>HTB Introduction to Networking</strong><br><sub>4:3 badge format</sub></p></td>
+<td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Academy/Introduction%20to%20Networking/Hack%20The%20Box%20Introduction%20to%20Networking%20Badge.png" width="250" alt="Hack The Box Introduction to Networking badge"></p><p align="center"><strong>HTB Introduction to Networking</strong><br><sub>Achievement badge</sub></p></td>
+<td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Academy/Introduction%20to%20Networking/Hack%20The%20Box%20Introduction%20to%20Networking.png" width="250" alt="Hack The Box Introduction to Networking certificate"></p><p align="center"><strong>HTB Introduction to Networking</strong><br><sub>Certificate</sub></p></td>
+</tr>
+<tr>
+<td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals%20Badge.png" width="250" alt="Hack The Box Linux Fundamentals badge"></p><p align="center"><strong>HTB Linux Fundamentals</strong><br><sub>Achievement badge</sub></p></td>
+<td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals.png" width="250" alt="Hack The Box Linux Fundamentals certificate"></p><p align="center"><strong>HTB Linux Fundamentals</strong><br><sub>Certificate</sub></p></td>
+<td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/INTEL-2025-0290.png" width="250" alt="Intel 2025-0290 achievement"></p><p align="center"><strong>Intel 2025-0290</strong><br><sub>Recognition</sub></p></td>
+</tr>
+</table>
+
+### 🚀 Challenges & programs
+
+<table>
+<tr>
+<td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/NASA/Space%20Apps%20Challenge/2025/NASA%20Space%20Apps%20Challenge.jpg" width="250" alt="NASA Space Apps Challenge 2025 achievement"></p><p align="center"><strong>NASA Space Apps Challenge 2025</strong></p></td>
+<td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/NUST/NUST%20Selection%20Letter.png" width="250" alt="NUST selection letter"></p><p align="center"><strong>NUST Selection</strong><br><sub>Selection letter</sub></p></td>
+<td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/NUST/NUST%20Folder%20Logo.jpeg" width="250" alt="NUST achievement logo"></p><p align="center"><strong>NUST</strong><br><sub>Program materials</sub></p></td>
+</tr>
+</table>
+
+### 🧪 Hack The Box lab milestones
+
+<table>
+<tr>
+<td valign="top" width="25%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Labs/Machines/Meow/Meow.jpg" width="220" alt="Hack The Box Meow machine completion"></p><p align="center"><strong>Meow</strong></p></td>
+<td valign="top" width="25%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Labs/Machines/Fawn/Fawn.jpg" width="220" alt="Hack The Box Fawn machine completion"></p><p align="center"><strong>Fawn</strong></p></td>
+<td valign="top" width="25%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Labs/Machines/Dancing/Dancing.jpg" width="220" alt="Hack The Box Dancing machine completion"></p><p align="center"><strong>Dancing</strong></p></td>
+<td valign="top" width="25%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/Hack%20The%20Box/Labs/Machines/Redeemer/Redeemer.jpg" width="220" alt="Hack The Box Redeemer machine completion"></p><p align="center"><strong>Redeemer</strong></p></td>
+</tr>
+</table>
 
 <details>
-<summary><strong>View certificates and achievement files</strong></summary>
+<summary><strong>View certificates, transcripts, and write-ups</strong></summary>
 
-- [Hack The Box — Linux Fundamentals badge](Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals%20Badge.png)
-- [Hack The Box — Linux Fundamentals certificate](Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals.pdf)
-- [NASA — Space Apps Challenge 2025](Achievements/NASA/Space%20Apps%20Hackathon/NASA%20Space%20Apps%20Challenge%202025.pdf)
+- [CrunchLabs Space Selfie certificate](Achievements/Crunch%20Labs/CrunchLabsSpaceSelfieCertificate.pdf)
+- [HTB Academy student transcript](Achievements/Hack%20The%20Box/HTB%20Academy%20Student%20Transcript.pdf)
+- [HTB Introduction to Networking certificate](Achievements/Hack%20The%20Box/Academy/Introduction%20to%20Networking/Hack%20The%20Box%20Introduction%20to%20Networking.pdf)
+- [HTB Linux Fundamentals certificate](Achievements/Hack%20The%20Box/Academy/Linux%20Fundamentals/Hack%20The%20Box%20Linux%20Fundamentals.pdf)
+- [Meow write-up](Achievements/Hack%20The%20Box/Labs/Machines/Meow/Meow%20Write-up.pdf) · [certificate](Achievements/Hack%20The%20Box/Labs/Machines/Meow/Meow.pdf)
+- [Fawn write-up](Achievements/Hack%20The%20Box/Labs/Machines/Fawn/Fawn%20Write-up.pdf) · [certificate](Achievements/Hack%20The%20Box/Labs/Machines/Fawn/Fawn.pdf)
+- [Dancing write-up](Achievements/Hack%20The%20Box/Labs/Machines/Dancing/Dancing%20Write-up.pdf) · [certificate](Achievements/Hack%20The%20Box/Labs/Machines/Dancing/Dancing.pdf)
+- [Redeemer write-up](Achievements/Hack%20The%20Box/Labs/Machines/Redeemer/Redeemer%20Write-up.pdf) · [certificate](Achievements/Hack%20The%20Box/Labs/Machines/Redeemer/Redeemer.pdf)
+- [NASA Space Apps Challenge 2025 certificate](Achievements/NASA/Space%20Apps%20Challenge/2025/NASA%20Space%20Apps%20Challenge.pdf)
 
 </details>
 
