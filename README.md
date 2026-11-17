@@ -125,9 +125,9 @@ Currently   Exploring practical tools, automation, and ambitious experiments
 ## 📈 Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaheer-Mirza&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated looping GitHub contribution graph">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Looping GitHub contribution activity">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaheer-Mirza&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph">
 </div>
 
 ## 📫 Let’s connect
