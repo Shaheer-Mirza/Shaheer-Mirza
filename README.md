@@ -84,10 +84,8 @@ Currently   Exploring practical tools, automation, and ambitious experiments
 <tr>
 <td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/NASA/Space%20Apps%20Challenge/2025/certificate_shaheer-mirza_2025__n_a_s_a__space__apps__challenge.png" width="250" alt="NASA Space Apps Challenge 2025 achievement"></p><p align="center"><strong>NASA Space Apps Challenge 2025</strong></p></td>
 <td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/NASA/Space%20Apps%20Challenge/2026/certificate_shaheer-mirza_2026__n_a_s_a__space__apps__challenge.png" width="250" alt="NASA Space Apps Challenge 2026 achievement"></p><p align="center"><strong>NASA Space Apps Challenge 2026</strong></p></td>
-<td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/NUST/NUST%20Selection%20Letter.png" width="250" alt="NUST selection letter"></p><p align="center"><strong>NUST Selection</strong><br><sub>Selection letter</sub></p></td>
 </tr>
 <tr>
-<td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/NUST/NET%20Score.png" width="250" alt="NUST NET score"></p><p align="center"><strong>NUST NET</strong><br><sub>Score report</sub></p></td>
 <td valign="top" width="33%"><p align="center"><img src="https://raw.githubusercontent.com/Shaheer-Mirza/Shaheer-Mirza/main/Achievements/NUST/NUST%20Folder%20Logo.jpeg" width="250" alt="NUST achievement logo"></p><p align="center"><strong>NUST</strong><br><sub>Program materials</sub></p></td>
 <td></td>
 </tr>
