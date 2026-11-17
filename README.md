@@ -126,6 +126,8 @@ Currently   Exploring practical tools, automation, and ambitious experiments
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaheer-Mirza&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph">
+
+<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Looping GitHub contribution activity">
 </div>
 
 ## 📫 Let’s connect
